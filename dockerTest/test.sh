@@ -1,0 +1,1 @@
+docker exec -it test1 bash
